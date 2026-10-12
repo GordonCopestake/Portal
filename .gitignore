@@ -1,0 +1,14 @@
+/.tools/
+/build/
+/portal.exe
+/portal.exe~
+
+# Private credentials and local operator settings
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+/portal.local.json
+/portal.*.local.json
